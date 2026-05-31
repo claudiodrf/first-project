@@ -1,2 +1,1 @@
-mensagem = "Oi"
-print("Hello Git Antigravity!")
+print("Hello Git!")
