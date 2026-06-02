@@ -1,5 +1,8 @@
-mensagem = "Hello Git!"
-print(mensagem)
-print("Nova feature adicionada")
-print("Coflito de merge.")
+mensagem = 'Hello World!'
 
+print(mensagem)
+
+def saudacao(nome):
+	print(f'Seja bem-vindo, {nome}!')
+
+saudacao('Asimov Academy!')
